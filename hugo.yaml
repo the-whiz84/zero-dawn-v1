@@ -1,4 +1,4 @@
-baseURL: https://zerodawn.tech
+baseURL: https://v1.the-whiz.dev
 
 languageCode: en-us
 title: "Zero-Dawn v1.0"
@@ -96,7 +96,7 @@ params:
     favicon: /images/site/logo-round.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/the-whiz84/zerodawn.tech
+  gitRepo: https://github.com/the-whiz84/zero-dawn-v1
   # Default branch of your Git repo
   gitBranch: main
 
@@ -326,7 +326,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: "https://tech.us13.list-manage.com/subscribe/post?u=e9f58f58356ba833b0898a91d&amp;id=86a0fa33b2&amp;f_id=00b87ce9f0"
 

@@ -1,4 +1,4 @@
-module github.com/the-whiz84/zerodawn.tech
+module github.com/the-whiz84/zero-dawn-v1
 
 go 1.23
 
