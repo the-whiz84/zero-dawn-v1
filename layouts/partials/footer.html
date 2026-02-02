@@ -87,7 +87,7 @@
               {{ range $customMenus }}
                 {{ if .showOnFooter }}
                     <li class="nav-item">
-                      <a class="smooth-scroll" href="{{ .url }}">{{ .name }}</a>
+                      <a class="smooth-scroll" href="{{ .url }}" {{ if hasPrefix .url "http" }}target="_blank" rel="noopener"{{ end }}>{{ .name }}</a>
                     </li>
                 {{ end }}
               {{ end }}
@@ -166,11 +166,11 @@
                 <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
               </form>
             {{ else }}
-              <form method='post' action='https://blogtrottr.com'>
+              <form method="post" action="https://blogtrottr.com">
               <div class="form-group">
-              <input type='email' class="form-control" name='btr_email' placeholder="{{ i18n "newsletter_input_placeholder" }}"/><br />
-              <input type='hidden' name='btr_url' value='{{ "" | absLangURL }}/index.xml' />
-              <input type='hidden' name='schedule_type' value='1' />
+              <input type="email" class="form-control" name="btr_email" placeholder="{{ i18n "newsletter_input_placeholder" }}"/><br />
+              <input type="hidden" name="btr_url" value="{{ "" | absLangURL }}/index.xml" />
+              <input type="hidden" name="schedule_type" value="1" />
               <small id="emailHelp" class="form-text text-muted">{{ i18n "newsletter_warning" }}</small>
               <button type="submit" class="btn btn-info"> {{ i18n "submit" }} </button>
               </div>

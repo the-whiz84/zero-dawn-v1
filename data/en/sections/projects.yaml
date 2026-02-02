@@ -35,7 +35,7 @@ projects:
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Capstone_Blog_Project
-  url: https://blog.thewhiz.me
+  url: https://blog.the-whiz.dev
   summary: A Blog Website created with Python, Flask and SQLAlchemy
   tags: ["professional", "programming"]
 
@@ -44,7 +44,7 @@ projects:
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Capstone_Blog_Project
-  url: https://todo.thewhiz.me
+  url: https://todo.the-whiz.dev
   summary: ToDo Web App created with Flask, Bootstrap 5 and PostgreSQL
   tags: ["professional", "programming"]
 
@@ -53,6 +53,6 @@ projects:
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Python_Projects/tree/main/Day97-E-Commerce_Website
-  url: https://thewhiz.eu.pythonanywhere.com
+  url: https://shop.the-whiz.dev
   summary: eCommerce Example Website created with Flask, Bootstrap 5 and Stripe Payment Processing
   tags: ["professional", "programming"]
