@@ -11,8 +11,8 @@ section:
 designation: HPC Technical Engineer
 # your company information
 company:
-  name: EVIDEN
-  url: "https://www.eviden.com"
+  name: BULL
+  url: "https://www.bull.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -26,7 +26,7 @@ summary: "I have been working in IT for over a decade. I started my career as a 
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "radu@thewhiz.me"
+  url: "radu@the-whiz.dev"
 
 - name: Github
   icon: "fab fa-github"
@@ -53,13 +53,13 @@ resourceLinks:
 badges:
 - type: certification
   name: CompTIA Linux+
-  url: "https://www.credly.com/badges/f4556501-eb66-4841-b7e2-f50ccb51b112/public_url"
-  badge: "https://images.credly.com/size/680x680/images/6edb32c5-37d8-4fd4-98cd-2811932f0185/CompTIA_Linux_2Bce.png"
+  url: "https://www.credly.com/badges/ee106ea6-ba34-440b-9f29-3f2a59239e9d/public_url"
+  badge: "https://images.credly.com/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob"
 
 - type: certification
   name: Okta Certified Consultant
-  url: "https://www.credly.com/badges/89c97534-9cc4-4d5f-8208-7a1a03a43675/public_url"
-  badge: "https://images.credly.com/images/05c69eac-f494-403f-9f5e-b590d1c2ce0e/image.png"
+  url: "https://www.credly.com/badges/0239f2b6-94c8-42cb-8ba4-1aa1435067a8/public_url"
+  badge: "https://images.credly.com/size/220x220/images/8413de18-592f-4705-b3c0-632b0b90198e/blob"
 
 - type: certification
   name: Microsoft Certified - Azure Administrator Associate
