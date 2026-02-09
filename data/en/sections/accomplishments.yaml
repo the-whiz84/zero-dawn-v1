@@ -11,6 +11,15 @@ section:
 
 # Your accomplishments
 accomplishments:
+
+- name: AWS Certified Solutions Architect - Associate
+  timeline: "Feb 2026 - Feb 2029"
+  organization:
+    name: AWS
+    url: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+  courseOverview: "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant."
+  certificateURL: "https://www.credly.com/badges/c75558c2-7879-40b0-aa16-be2c78d56971/public_url"
+
 - name: "100 Days of Code: The Complete Python Pro Bootcamp"
   timeline: "Oct 2024"
   organization:
@@ -18,22 +27,6 @@ accomplishments:
     url: https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNING
   courseOverview: "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! You will be able to program in Python professionally. Create a portfolio of 100 Python projects to apply for developer jobs. Be able to use Python for data science and machine learning. You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib."
   certificateURL: "https://www.udemy.com/certificate/UC-a0f21ccd-9840-4158-8bb3-b2d4f39dac93/"
-
-- name: CompTIA Linux+ ce Certification
-  timeline: "Dec 2021 - Dec 2024"
-  organization:
-    name: Comptia
-    url: https://www.comptia.org/certifications/linux
-  courseOverview: "Earners of the CompTIA Linux+ certification have the knowledge and skills required to succeed in a Linux operating system environment. CompTIA Linux+ earners have demonstrated the ability to configure the system, navigate the command line, and use common package management systems. They are also able to customize the environment, create scripts and configure networking."
-  certificateURL: "https://www.credly.com/badges/f4556501-eb66-4841-b7e2-f50ccb51b112/public_url"
-
-- name: Okta Certified Consultant
-  timeline: "Nov 2021 - Nov 2023"
-  organization:
-    name: OKTA
-    url: https://www.okta.com/services/certification
-  courseOverview: "Okta Certified Consultants are technically proficient at implementing the Okta service in a variety of configurations. Consultants have experience integrating common applications, such as Office 365 and G Suite, with Okta. They also have extensive experience scoping and implementing complex Okta integrations involving multi-forest and multi-domain environments, advanced single sign-on, and inbound federation with Okta. They have working knowledge of Okta APIs and custom configuration options."
-  certificateURL: "https://www.credly.com/badges/0239f2b6-94c8-42cb-8ba4-1aa1435067a8/public_url"
 
 - name: Google Cloud - Create and Manage Cloud Resources
   timeline: "Nov 2021"
