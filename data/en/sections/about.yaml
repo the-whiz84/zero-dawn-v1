@@ -57,9 +57,9 @@ badges:
   badge: "https://images.credly.com/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob"
 
 - type: certification
-  name: Okta Certified Consultant
-  url: "https://www.credly.com/badges/0239f2b6-94c8-42cb-8ba4-1aa1435067a8/public_url"
-  badge: "https://images.credly.com/size/220x220/images/8413de18-592f-4705-b3c0-632b0b90198e/blob"
+  name: AWS Certified Solutions Architect - Associate
+  url: "https://www.credly.com/badges/c75558c2-7879-40b0-aa16-be2c78d56971/public_url"
+  badge: "https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
 - type: certification
   name: Microsoft Certified - Azure Administrator Associate
