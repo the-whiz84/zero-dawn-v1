@@ -34,8 +34,8 @@ projects:
   logo: /images/sections/projects/python.png
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
-  # repo: https://github.com/the-whiz84/Capstone_Blog_Project
-  url: https://blog.the-whiz.dev
+  repo: https://github.com/the-whiz84/Capstone_Blog_Project
+  #url: https://blog.the-whiz.dev
   summary: A Blog Website created with Python, Flask and SQLAlchemy
   tags: ["professional", "programming"]
 
